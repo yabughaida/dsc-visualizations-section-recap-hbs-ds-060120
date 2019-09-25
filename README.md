@@ -3,14 +3,7 @@
 
 ## Introduction 
 
-In this lesson, we'll review what we learned in this section. 
-
-## Objectives
-
-You will be able to:
-
-* Understand and explain why this section will help you become a data scientist. 
-* Show mastery of the content covered in this section. 
+In this lesson, we'll review what you learned in this section. 
 
 
 ## Key Takeaways
