@@ -1,5 +1,5 @@
 
-# Section Recap
+# Data Visualization - Recap
 
 ## Introduction 
 
@@ -13,3 +13,7 @@ We began this section by getting some deeper practice with Python's most popular
 Next, we learned about the best and worst practices for data visualization. We learned about how to pack multiple kinds of information into a single plot, how to make effective use of color, and how to use **_Preattentive Attributes_** to make important parts of our visualization stand out. We also learned about common mistakes and errors, so that we can avoid them in the future. 
 
 Finally, we got some practice with a second visualization library, **_Seaborn_**. We learned about the relationship between Seaborn and Matplotlib, and saw some examples of when we may want to use Seaborn instead of Matplotlib. 
+
+## Summary
+
+In this section, you learned how to create meaningful visualizations.
